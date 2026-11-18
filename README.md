@@ -28,3 +28,4 @@ created using HTML, CSS and JavaScript.
 - style.css - Website styling
 - script.js - JavaScript functionality
 
+# GitHub-practical-test
